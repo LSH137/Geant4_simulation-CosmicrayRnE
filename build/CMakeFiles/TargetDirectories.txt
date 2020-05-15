@@ -1,0 +1,8 @@
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/install/strip.dir
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/install/local.dir
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/PROJECT.dir
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/edit_cache.dir
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/simulation.dir
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/list_install_components.dir
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/rebuild_cache.dir
+/media/lsh/CosmicrayRnE/G4project/sample/build/CMakeFiles/install.dir
