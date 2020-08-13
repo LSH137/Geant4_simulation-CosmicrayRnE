@@ -84,7 +84,7 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
 
 
    G4double detector_xy_size = 1000.*mm;
-   G4double detector_z_size = 15.*mm;
+   G4double detector_z_size = 10.*mm;
    G4double detector_offset_z = 500.*mm;
 
    //front scintillator
