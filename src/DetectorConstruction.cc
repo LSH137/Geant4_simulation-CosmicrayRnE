@@ -69,7 +69,7 @@ G4VPhysicalVolume* DetectorConstruction::Construct()
     //Detector
     /*
         Detector is made of C8H8
-        size is 1m * 1m * 1.6cm
+        size is 1m * 1m * 1cm
                     copy number
         Detector1 :        1
         Detector2 :        2
